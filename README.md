@@ -3,9 +3,9 @@
 <sub>fletcher</sub>
 </h1>
 
-I'm a front-end developer, currently working for [Notify](https://notify.me).
+I'm a (primarily front-end) developer, currently working for [Notify](https://notify.me) and incredibly in love with TypeScript.
 <br />
-In my free time, I work on my [Discord](https://discord.com) bot [Octobanzo](https://github.com/octobanzo/octobanzo),
-among other things like [learning C/C++](https://github.com/hadenpf/hello-c).
+In my free time, I work on my Discord bot project [Octobanzo](https://github.com/octobanzo/octobanzo),
+among other small side projects.
 
 <!-- I'll add more later, just wanted to add a little intro for now :) -->
