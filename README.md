@@ -1,6 +1,5 @@
 <h1>
-<sup>haden</sup>
-<sub>fletcher</sub>
+<sup>haden fletcher</sup>
 </h1>
 
 I'm a (primarily front-end) developer, currently working for [Notify](https://notify.me) and incredibly in love with TypeScript.
