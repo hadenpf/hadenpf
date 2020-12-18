@@ -11,7 +11,7 @@ In my free time, I work on some side projects, such as:
 - [Octobanzo], a Discord bot
 - [Rocker], a music streaming service
 - [BuildMode], a Minecraft server plugin
-- a Cloudflare [redirect worker][redirect-worker] for redirect-based domains (like [pulsejs.dev][pulse]!
+- a Cloudflare [redirect worker][redirect-worker] for redirect-based domains (like [pulsejs.dev][pulse]!)
 
 [pulse]: https://pulsejs.dev
 
