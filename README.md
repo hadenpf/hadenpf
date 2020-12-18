@@ -7,7 +7,8 @@ I'm a (primarily front-end) developer, currently working for [Notify](https://no
 incredibly in love with TypeScript and `yarn`.
 
 In my free time, I work on some side projects, such as:
+
 - [Octobanzo](https://github.com/octobanzo/octobanzo), a Discord bot
 - [Rocker](https://github.com/rockerapp), a music streaming service
 - [BuildMode](https://github.com/hadenpf/BuildMode), a Minecraft server plugin
-- and some others
+- a Cloudflare [redirect worker](https://github.com/hadenpf/BuildMode) for redirect-based domains (like [pulsejs.dev](https://pulsejs.dev)!)
