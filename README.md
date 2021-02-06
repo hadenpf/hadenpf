@@ -2,8 +2,6 @@
 
 **Front-End Engineer** @ [Notify]
 
----
-
 ### About me
 
 I yell at people to migrate to `yarn` and TypeScript.
