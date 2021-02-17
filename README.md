@@ -9,7 +9,7 @@
 
 ### Projects
 
-A few things that I've worked on, past and present:
+A few things that I've worked on:
 
 - [strap], a simple utility for keeping configs in-sync between machines  
   ![go]
