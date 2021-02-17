@@ -1,4 +1,4 @@
-<img src="meta/img/golang.svg" width="80" height="80" alt="" align="left" />
+<!-- <img src="meta/img/golang.svg" width="80" height="80" alt="" align="left" /> -->
 
 # Haden Fletcher
 
