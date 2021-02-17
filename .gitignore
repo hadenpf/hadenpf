@@ -1,0 +1,13 @@
+*
+
+!/README.md
+!/.gitignore
+!/meta/img/*.svg
+
+# when excepting from gitignore doesn't seem to work...
+# !*
+
+# but always say BYE to these files
+.DS_Store
+yarn.lock
+.yarn-integrity
