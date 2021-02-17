@@ -4,7 +4,6 @@
 
 **Software Engineer** @ [Notify]
 <img src="meta/img/typescript.svg" height="16" width="16" />
-<img src="meta/img/golang.svg" height="16" width="16" />
 <img src="meta/img/react.svg" height="16" width="16" />  
 
 
@@ -17,7 +16,7 @@ A few things that I've worked on, past and present:
 - [yomaOS][yasmp], adding custom experiences to a Minecraft server  
 	![java] ![kotlin]
 - [redirect-worker], a Cloudflare Worker for redirect-only domains (like [pulsejs.dev][pulse]!)  
-  ![ts]
+  ![ts] ![cloudflare]
 - [Octobanzo], a general-purpose Discord bot  
   ![ts] ![mysql] 
 - [Rocker], a music streaming service  
@@ -53,3 +52,4 @@ A few things that I've worked on, past and present:
 [mysql]: meta/img/mysql.svg
 [postgres]: meta/img/postgres.svg
 [react]: meta/img/react.svg
+[cloudflare]: meta/img/cloudflare.svg
