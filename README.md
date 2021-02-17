@@ -1,6 +1,6 @@
-<img src="meta/img/golang.svg" width="80" height="80" align="left" />
-Haden Fletcher
-===
+<img src="meta/img/golang.svg" width="80" height="80" alt="icon" align="left"/>
+
+# Haden Fletcher
 
 **Software Engineer**, `yarn` fanatic, TypeScript enthusiast
 
