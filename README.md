@@ -1,4 +1,4 @@
-<img src="meta/img/golang.svg" width="80" height="80" alt="icon" align="left"/>
+<img src="meta/img/golang.svg" width="80" height="80" alt="" align="left" />
 
 # Haden Fletcher
 
@@ -12,11 +12,16 @@ I yell at people to use `yarn` and TypeScript.
 
 Beyond actual work, here are a few other projects I've worked on:
 
-- ![go] [strap], a simple utility for keeping configs in-sync between machines
-- ![java] [BuildMode], a Minecraft server plugin
-- ![ts] a Cloudflare [redirect worker][redirect-worker] for redirect-based domains (like [pulsejs.dev][pulse]!)
-- ![ts] ![mysql] [Octobanzo], a general-purpose Discord bot
-- ![ts] ![postgres] [Rocker], a music streaming service
+- [strap], a simple utility for keeping configs in-sync between machines  
+  ![go]
+- [BuildMode], a Minecraft server plugin  
+  ![java]
+- a Cloudflare [redirect worker][redirect-worker] for redirect-based domains (like [pulsejs.dev][pulse]!)  
+  ![ts]
+- [Octobanzo], a general-purpose Discord bot  
+  ![ts] ![mysql] 
+- [Rocker], a music streaming service  
+  ![ts] ![postgres]
 
 <!-- Professsional -->
 
