@@ -4,6 +4,8 @@
 
 **Software Engineer**, `yarn` fanatic, TypeScript enthusiast
 
+---
+
 ### About me
 
 I yell at people to use `yarn` and TypeScript.
