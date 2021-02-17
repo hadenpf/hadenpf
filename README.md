@@ -2,13 +2,8 @@
 
 # Haden Fletcher
 
-**Software Engineer**, `yarn` fanatic, TypeScript enthusiast
-
----
-
-### About me
-
-I yell at people to use `yarn` and TypeScript.
+**Software Engineer** currently working @ [Notify][notify]  
+![ts] ![go] ![react]
 
 ### Projects
 
@@ -16,8 +11,8 @@ Beyond actual work, here are a few other projects I've worked on:
 
 - [strap], a simple utility for keeping configs in-sync between machines  
   ![go]
-- [BuildMode], a Minecraft server plugin  
-  ![java]
+- [yomaOS][yasmp], adding custom experiences to a Minecraft server  
+	![java] ![kotlin]
 - a Cloudflare [redirect worker][redirect-worker] for redirect-based domains (like [pulsejs.dev][pulse]!)  
   ![ts]
 - [Octobanzo], a general-purpose Discord bot  
@@ -51,5 +46,7 @@ Beyond actual work, here are a few other projects I've worked on:
 [js]: meta/img/javascript.svg
 [ts]: meta/img/typescript.svg
 [java]: meta/img/java.svg
+[kotlin]: meta/img/kotlin.svg
 [mysql]: meta/img/mysql.svg
 [postgres]: meta/img/postgres.svg
+[react]: meta/img/react.svg
