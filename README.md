@@ -2,18 +2,21 @@
 
 # Haden Fletcher
 
-**Software Engineer** currently working @ [Notify][notify]  
-![ts] ![go] ![react]
+**Software Engineer** @ [Notify]
+<img src="meta/img/typescript.svg" height="16" width="16" />
+<img src="meta/img/golang.svg" height="16" width="16" />
+<img src="meta/img/react.svg" height="16" width="16" />  
+
 
 ### Projects
 
-Beyond actual work, here are a few other projects I've worked on:
+A few things that I've worked on, past and present:
 
 - [strap], a simple utility for keeping configs in-sync between machines  
   ![go]
 - [yomaOS][yasmp], adding custom experiences to a Minecraft server  
 	![java] ![kotlin]
-- a Cloudflare [redirect worker][redirect-worker] for redirect-based domains (like [pulsejs.dev][pulse]!)  
+- [redirect-worker], a Cloudflare Worker for redirect-only domains (like [pulsejs.dev][pulse]!)  
   ![ts]
 - [Octobanzo], a general-purpose Discord bot  
   ![ts] ![mysql] 
